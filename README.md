@@ -10,17 +10,16 @@ A passionate **Software Test Engineer** with **3 years of Manual Testing** and *
 - 🔭 I’m currently working on **Automation Frameworks using Playwright & Selenium**  
 - 🌱 Learning and upskilling in **Java, Selenium, TestNG, Maven, Playwright**  
 - 💬 Ask me about **Software Testing, Selenium, Playwright, Java, TestNG**  
-- 📫 Reach me at: [mukeshupadhyay@gmail.com](mailto:mukeshupadhyay@gmail.com)  
-- 📄 Know more about me: [Resume](#)  
+- 📫 Reach me at: [mukeshupadhyay0612@gmail.com](mailto:mukeshupadhyay0612@gmail.com)   
 
 ---
 
 ## 🌐 Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
+  <a href="[https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/mukesh-u-226205127/)" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:mukeshupadhyay@gmail.com">
+  <a href="mailto:mukeshupadhyay0612@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
