@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://www.canva.com/design/DAGwr521KdE/7-smk51XHTHFfDr2eGC8Ew/view?utm_content=DAGwr521KdE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc72c0bd5e2" alt="Mukesh Upadhyay Banner" />
+  <img src="./logo.png" alt="Mukesh Upadhyay Banner" />
 </p>
 
 # Hi 👋, I'm Mukesh Upadhyay  
