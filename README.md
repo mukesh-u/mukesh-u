@@ -37,14 +37,16 @@ A passionate **Software Test Engineer** with **3 years of Manual Testing** and *
 ### 🚀 Automation Tools
 ![WebDriverIO](https://img.shields.io/badge/-WebDriverIO-C21325?logo=webdriverio&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-2C2E3B?logo=microsoft-playwright&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+
 
 ### 🧪 Testing Frameworks
 ![TestNG](https://img.shields.io/badge/-TestNG-F05032?logo=apachemaven&logoColor=white)
 
 ### 💻 Programming Languages
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JvaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ### 🗂 Test Management
 ![ClickUp](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
