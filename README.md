@@ -5,7 +5,7 @@
 
 # Hi 👋, I'm Mukesh Upadhyay  
 
-A passionate **Software Test Engineer** with **3 years of Manual Testing** and **8 months of Automation Testing** using **Playwright (JS/TS)** and **Selenium (Java)**.  
+A passionate **Software Test Engineer** with **4+ years of Testing experience** into both **Manual Testing** and **Automation Testing** using **Playwright (JS/TS)** and **Selenium (Java)**.  
 
 - 🔭 I’m currently working on **Automation Frameworks using Playwright & Selenium**  
 - 🌱 Learning and upskilling in **Java, Selenium, TestNG, Maven, Playwright**  
